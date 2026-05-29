@@ -1430,13 +1430,3 @@ Hot Tier
 
 ---
 
-# Most Important AZ-900 Concepts
-
-1. Blob vs Azure Files
-2. Queue vs Table Storage
-3. Storage redundancy types
-4. Hot/Cool/Archive tiers
-5. Storage service selection
-6. Disaster recovery concepts
-
----
