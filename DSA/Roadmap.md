@@ -3,8 +3,8 @@
 Welcome to your DSA journey! We will move from the most basic building blocks to complex algorithms. Each topic will include notes, practice problems, and a revision summary.
 
 ## 🟢 Phase 1: The Basics
-- [ ] **Time and Space Complexity** (Current)
-- [ ] Arrays
+- [x] **Time and Space Complexity**
+- [ ] **Arrays** (Current)
 - [ ] Strings
 - [ ] Linked Lists
 - [ ] Stacks
